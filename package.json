@@ -2,7 +2,7 @@
   "name": "platform-service",
   "version": "1.0.0",
   "description": "iMBrace Platform Service",
-  "license": "SEE LICENSE IN LICENSE.md",
+  "license": "MIT",
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
